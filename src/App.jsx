@@ -5,7 +5,7 @@ import Modal from './components/Modal'
 import ListadoGastos from './components/ListadoGastos'
 import { generarId } from './helpers'
 import { object } from 'prop-types'
-import Filtros from './components/filtros'
+import Filtros from './components/Filtros'
 
 
 function App() {
